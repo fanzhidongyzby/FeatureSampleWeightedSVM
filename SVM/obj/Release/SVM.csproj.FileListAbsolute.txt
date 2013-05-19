@@ -1,0 +1,31 @@
+C:\Users\fzd\Desktop\svm_source\svm_source\SVM\bin\Release\SVM.dll
+C:\Users\fzd\Desktop\svm_source\svm_source\SVM\bin\Release\SVM.pdb
+C:\Users\fzd\Desktop\svm_source\svm_source\SVM\bin\Release\svm.xml
+C:\Users\fzd\Desktop\svm_source\svm_source\SVM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fzd\Desktop\svm_source\svm_source\SVM\obj\Release\SVM.dll
+C:\Users\fzd\Desktop\svm_source\svm_source\SVM\obj\Release\SVM.pdb
+C:\Users\fzd\Desktop\Prj4\SVM\bin\Release\SVM.dll
+C:\Users\fzd\Desktop\Prj4\SVM\bin\Release\SVM.pdb
+C:\Users\fzd\Desktop\Prj4\SVM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fzd\Desktop\Prj4\SVM\obj\Release\SVM.dll
+C:\Users\fzd\Desktop\Prj4\SVM\obj\Release\SVM.pdb
+C:\Users\fzd\Desktop\Prj5——多类\SVM\bin\Release\SVM.dll
+C:\Users\fzd\Desktop\Prj5——多类\SVM\bin\Release\SVM.pdb
+C:\Users\fzd\Desktop\Prj5——多类\SVM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fzd\Desktop\Prj5——多类\SVM\obj\Release\SVM.dll
+C:\Users\fzd\Desktop\Prj5——多类\SVM\obj\Release\SVM.pdb
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\bin\Release\SVM.dll
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\bin\Release\SVM.pdb
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\obj\Release\SVM.dll
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\obj\Release\SVM.pdb
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\bin\Release\SVM.dll
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\bin\Release\SVM.pdb
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\obj\Release\ResolveAssemblyReference.cache
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\obj\Release\SVM.dll
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\obj\Release\SVM.pdb
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\bin\Release\SVM.dll
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\bin\Release\SVM.pdb
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\obj\Release\SVM.dll
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\obj\Release\SVM.pdb

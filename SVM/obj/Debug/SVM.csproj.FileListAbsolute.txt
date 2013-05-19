@@ -1,0 +1,25 @@
+C:\Users\fzd\Desktop\Prj4\SVM\bin\Debug\SVM.dll
+C:\Users\fzd\Desktop\Prj4\SVM\bin\Debug\SVM.pdb
+C:\Users\fzd\Desktop\Prj4\SVM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fzd\Desktop\Prj4\SVM\obj\Debug\SVM.dll
+C:\Users\fzd\Desktop\Prj4\SVM\obj\Debug\SVM.pdb
+C:\Users\fzd\Desktop\Prj5——多类\SVM\bin\Debug\SVM.dll
+C:\Users\fzd\Desktop\Prj5——多类\SVM\bin\Debug\SVM.pdb
+C:\Users\fzd\Desktop\Prj5——多类\SVM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fzd\Desktop\Prj5——多类\SVM\obj\Debug\SVM.dll
+C:\Users\fzd\Desktop\Prj5——多类\SVM\obj\Debug\SVM.pdb
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改\SVM\bin\Debug\SVM.dll
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改\SVM\bin\Debug\SVM.pdb
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改\SVM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改\SVM\obj\Debug\SVM.dll
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改\SVM\obj\Debug\SVM.pdb
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\bin\Debug\SVM.dll
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\bin\Debug\SVM.pdb
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\obj\Debug\SVM.dll
+C:\Users\fzd\Desktop\Prj6——多类 - 相似度修改2\SVM\obj\Debug\SVM.pdb
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\bin\Debug\SVM.dll
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\bin\Debug\SVM.pdb
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\obj\Debug\ResolveAssemblyReference.cache
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\obj\Debug\SVM.dll
+E:\Desk\Prj6——多类 - 相似度修改2 - 刷新数据——提前修改数据\SVM\obj\Debug\SVM.pdb
